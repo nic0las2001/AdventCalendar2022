@@ -1,4 +1,3 @@
-import pandas as pd
 import copy
 open_input = open("d5_input.txt","r")
 
